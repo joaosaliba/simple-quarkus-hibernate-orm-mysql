@@ -1,4 +1,4 @@
-package org.acme;
+package com.projeto.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
