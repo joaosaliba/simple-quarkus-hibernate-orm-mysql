@@ -1,4 +1,5 @@
 -- This file allow to write SQL commands that will be emitted in test and dev.
+CREATE DATABASE projeto
 -- The commands are commented as their support depends of the database
 -- insert into myentity (id, field) values(nextval('hibernate_sequence'), 'field-1');
 -- insert into myentity (id, field) values(nextval('hibernate_sequence'), 'field-2');
